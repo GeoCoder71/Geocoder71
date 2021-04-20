@@ -5,7 +5,6 @@
 - 📫 Feel free to use Issues to communicate with me.
 
 ⚡ Fun fact: Live runs on Code
-
 ⚡ Fun fact: If you can't find me, I might be out, Geocaching or enjoying a Duvel
 
 <!--
