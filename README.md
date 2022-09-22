@@ -4,7 +4,6 @@
  <ul align="center">
    <li>🔭 Mobile development (Xamarin/.Net Maui)</li>
    <li>🔭 .Net Development</li>
-   <li>🔭 Mobile development (Xamarin)</li>
     <li>⚡ Fun fact: Live runs on Code</li>
      <li>⚡ Fun fact: If you can't find me, I might be out, Geocaching or enjoying a Duvel</li>
  </ul>
