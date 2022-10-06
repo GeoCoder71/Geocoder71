@@ -14,8 +14,8 @@
 </p>
  
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geocoder71&layout=compact&theme=tokyonight&count_private=true" alt="geocoder71" height="160" />
- <img src="https://github-readme-stats.vercel.app/api?username=geocoder71&show_icons=true&theme=tokyonight&count_private=true" alt="geocoder71" height="160" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geocoder71&layout=compact&theme=tokyonight&count_private=true" alt="geocoder71" height="140" />
+ <img src="https://github-readme-stats.vercel.app/api?username=geocoder71&show_icons=true&theme=tokyonight&count_private=true" alt="geocoder71" height="140" />
 </p>
 
 
