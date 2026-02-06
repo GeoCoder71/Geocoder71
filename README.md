@@ -14,6 +14,6 @@
 </p>
  
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=geocoder71&theme=tokyonight" alt="geocoder71" height="140" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geocoder71&theme=tokyonight" alt="geocoder71" height="140" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=geocoder71&amp;theme=tokyonight" alt="geocoder71" height="140" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geocoder71&amp;theme=tokyonight" alt="geocoder71" height="140" />
 </p>
