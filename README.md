@@ -2,7 +2,7 @@
 
 <p align="center">
  <ul align="center">
-   <li>🔭 Mobile development (Xamarin/.Net Maui)</li>
+   <li>🔭 Mobile development (.Net Maui)</li>
    <li>🔭 .Net Development</li>
     <li>⚡ Fun fact: Live runs on Code</li>
      <li>⚡ Fun fact: If you can't find me, I might be out, Geocaching or enjoying a Duvel</li>
